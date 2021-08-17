@@ -1,6 +1,6 @@
 # Wizards Of Fatura
 
-H'all, Wizard
+Hi y'all, Wizard
 
 welcome to Wizards of Fatura hackathon,
 
